@@ -1,0 +1,2 @@
+http://dados.cvm.gov.br/dados/FI/DOC/EXTRATO/DADOS/extrato_fi.csv extrato_fi.csv
+http://dados.cvm.gov.br/dados/FI/CAD/DADOS/cad_fi.csv cad_fi.csv
